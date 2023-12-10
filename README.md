@@ -1,32 +1,38 @@
 ---
 layout: resume
-title: Boston Jones's Resume
+title: Boston Jones
 ---
-
-# Boston Jones
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/boston-jones/">linkedin.com/in/boston-jones</a>
+| <a href="mailto:jones.bostonmark@gmail.com">Email Me</a>
+| <a href="https://github.com/bostonmj-GA?tab=repositories"> My Github </a>
+</div>
 Current Senior at BYU-Idaho Persuing Full Time Employment
 
 ## Education
 
 `Expected 04/2024`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID  
+GPA : 3.2  
+Major In Business Analytics  
+Minor In Finance
 
 ## Previous Experience
 
 `October 2021 - Present`
-__The Hickory__, Rexburg, ID
-Serving Team Lead and Trainer
+__The Hickory__, Rexburg, ID  
+Serving Team Lead and Trainer  
 - Led to over $2M in annual revenue through management of 25 employees, while maintaining company policies and outstanding
-customer experiences, with in-the-moment crisis management
-- Facilitated employee training for dozens of staff while increasing customer satisfaction ratings by 15%
+customer experiences, with in-the-moment crisis management  
+- Facilitated employee training for dozens of staff while increasing customer satisfaction ratings by 15%  
 - Implemented additional training documentation and created additional closing duty documentation to improve employee closing
-efficiency by 30%
+efficiency by 30%  
 
 `October 2021- Decemeber 2021`
-__Research and Business Development Center__
-Student Consultant
+__Research and Business Development Center__, Rexburg, ID  
+Student Consultant  
 - Coordinated and created 25 month analytical data points demonstrating target growth requirements, estimated cost of marketing
-per user, and estimated costs for growth and assisted future development of an application
+per user, and estimated costs for growth and assisted future development of an application  
 - Demonstrated exceptional ability to work as a team by delivering a 25 month reverse income statement to reflect projected
 revenues, projected expenses, and projected net income
 
